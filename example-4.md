@@ -2,8 +2,6 @@
 
 This is a sample digital signage content.
 
----
-
 ## Announcements
 
 ### Event Today
@@ -24,8 +22,6 @@ This is a sample digital signage content.
   - **Time**: 1:00 PM - 3:00 PM
   - **Location**: Meeting Room B
 
----
-
 ## Current Notices
 
 - **Safety Drill**
@@ -38,19 +34,17 @@ This is a sample digital signage content.
   - **Date**: August 13-14, 2024
   - **Details**: The east wing will be closed for maintenance.
 
+~~~
+
 ## Important Contacts
 
 - **Front Desk**: 123-456-7890
 - **Security**: 987-654-3210
 - **Maintenance**: 555-123-4567
 
----
-
 ## Promotional Content
 
 ![Promotional Banner](https://info.kandji.io/hubfs/android-chrome-512x512.png)
-
----
 
 ## Directions
 
@@ -59,8 +53,6 @@ This is a sample digital signage content.
 **Cafeteria**: Located on the second floor, across from the elevator.
 
 **Restrooms**: Available on all floors near the staircases.
-
----
 
 ## Company Values
 
