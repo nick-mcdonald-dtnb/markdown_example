@@ -1,10 +1,10 @@
 {
     "header": {
-        "logoURL": "https://info.kandji.io/hubfs/android-chrome-512x512.png",
+        "logoURL": "https://example.com/logo.png",
         "text": "Kandji, Inc."
     },
-    "content": {
-        "leftColumn": {
+    "columns": [
+        {
             "title": "Announcements",
             "sections": [
                 {
@@ -30,7 +30,7 @@
                 }
             ]
         },
-        "rightColumn": {
+        {
             "title": "Important Contacts",
             "sections": [
                 {
@@ -50,5 +50,5 @@
                 }
             ]
         }
-    }
+    ]
 }
