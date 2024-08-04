@@ -1,0 +1,54 @@
+{
+    "header": {
+        "logoURL": "https://example.com/logo.png",
+        "text": "Kandji, Inc."
+    },
+    "content": {
+        "leftColumn": {
+            "title": "Announcements",
+            "sections": [
+                {
+                    "title": "Event Today",
+                    "items": [
+                        { "text": "Company Town Hall Meeting", "subtext": "3:00 PM - 4:00 PM" },
+                        { "text": "Main Conference Room" }
+                    ]
+                },
+                {
+                    "title": "Upcoming Events",
+                    "items": [
+                        { "text": "Team Building Activity", "subtext": "August 10, 2024, 10:00 AM - 2:00 PM" },
+                        { "text": "Outdoor Grounds" }
+                    ]
+                },
+                {
+                    "title": "Current Notices",
+                    "items": [
+                        { "text": "Safety Drill", "subtext": "August 12, 2024, 11:00 AM" },
+                        { "text": "Please follow the safety guidelines posted on the main board." }
+                    ]
+                }
+            ]
+        },
+        "rightColumn": {
+            "title": "Important Contacts",
+            "sections": [
+                {
+                    "title": "Contacts",
+                    "items": [
+                        { "text": "Front Desk: 123-456-7890" },
+                        { "text": "Security: 987-654-3210" },
+                        { "text": "Maintenance: 555-123-4567" }
+                    ]
+                },
+                {
+                    "title": "Promotional Content",
+                    "items": [
+                        { "text": "Main Conference Room: Located on the first floor, near the main entrance." },
+                        { "text": "Follow the signs marked 'Conference Room.'" }
+                    ]
+                }
+            ]
+        }
+    }
+}
