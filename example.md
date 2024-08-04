@@ -42,7 +42,7 @@ This is a sample digital signage content.
 
 ## Promotional Content
 
-![Promotional Banner](https://example.com/promotional-banner.png)
+![Promotional Banner](https://info.kandji.io/hubfs/android-chrome-512x512.png)
 
 ## Directions
 
