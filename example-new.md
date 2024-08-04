@@ -57,7 +57,3 @@ This is a sample digital signage content.
 - **Integrity**: We uphold the highest standards of integrity in all of our actions.
 - **Quality**: We provide outstanding products and unsurpassed service that, together, deliver premium value to our customers.
 - **Teamwork**: We work together, across boundaries, to meet the needs of our customers and to help our company win.
-
-## Thank You!
-
-Thank you for your attention. For more information, visit our [website](https://example.com) or contact us at [info@example.com](mailto:info@example.com).
